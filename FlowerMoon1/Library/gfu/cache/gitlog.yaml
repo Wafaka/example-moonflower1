@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: bf6b02eea06021d42b25bb18536e3d4c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-03-24T18:24:40.3616524+03:00
+  initializedAtString: 2018-03-24T18:18:34.0979168+03:00
+  log:
+  - commitID: 37844d63aded9c2f3cc048d3009af10995cc2029
+    mergeA: 
+    mergeB: 
+    authorName: Wafaka
+    authorEmail: waf.ka.26@gmail.com
+    commitEmail: waf.ka.26@gmail.com
+    commitName: Wafaka
+    summary: new
+    description: "new\r\n\r\nnew"
+    timeString: 2018-03-24T18:21:45.0000000+03:00
+    commitTimeString: 2018-03-24T18:21:45.0000000+03:00
+    changes:
+    - path: FlowerMoon1\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\unity\FlowerMoon1\example-moonflower1\FlowerMoon1\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: fcd16d56d385a65e4bd14a7e3bf4f5bc56112dcd
+    mergeA: 
+    mergeB: 
+    authorName: Wafaka
+    authorEmail: waf.ka.26@gmail.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Create README.md
+    description: Create README.md
+    timeString: 2018-03-24T17:28:49.0000000+03:00
+    commitTimeString: 2018-03-24T17:28:49.0000000+03:00
+    changes:
+    - path: README.md
+      fullPath: D:\unity\FlowerMoon1\example-moonflower1\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 2e7008277d75201a48302ba15285a8a7fecf800a
+    mergeA: 
+    mergeB: 
+    authorName: Wafaka
+    authorEmail: waf.ka.26@gmail.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-03-24T17:28:31.0000000+03:00
+    commitTimeString: 2018-03-24T17:28:31.0000000+03:00
+    changes:
+    - path: .gitignore
+      fullPath: D:\unity\FlowerMoon1\example-moonflower1\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0

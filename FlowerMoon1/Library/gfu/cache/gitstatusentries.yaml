@@ -12,9 +12,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-03-24T18:20:21.9354662+03:00
+  lastUpdatedAtString: 2018-03-24T18:25:22.3991563+03:00
   initializedAtString: 2018-03-24T18:18:34.7398838+03:00
   entries:
+  - path: FlowerMoon1\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\unity\FlowerMoon1\example-moonflower1\FlowerMoon1\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
   - path: FlowerMoon1\Assets\Assets.meta
     fullPath: D:\unity\FlowerMoon1\example-moonflower1\FlowerMoon1\Assets\Assets.meta
     projectPath: Assets\Assets.meta
@@ -4634,12 +4640,6 @@ MonoBehaviour:
   - path: FlowerMoon1\Library\gfu\cache\gitlog.yaml
     fullPath: D:\unity\FlowerMoon1\example-moonflower1\FlowerMoon1\Library\gfu\cache\gitlog.yaml
     projectPath: Library\gfu\cache\gitlog.yaml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: FlowerMoon1\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: D:\unity\FlowerMoon1\example-moonflower1\FlowerMoon1\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     status: 1
     staged: 0
